@@ -1,6 +1,5 @@
 body {
-	background-image: url("bartop.png");
-	background-repeat: no-repeat;
+	background-image: url("bartop.png") center no-repeat;
 	background-color: #a742f5;
 }
 
