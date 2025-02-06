@@ -1,5 +1,6 @@
 body {
 	background-image: url("bartop.png");
+	background-repeat: no-repeat;
 	background-color: #a742f5;
 }
 
