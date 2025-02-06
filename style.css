@@ -1,5 +1,6 @@
 body {
-	background-image: url("bartop.png") top;
+	background-image: url("bartop.png");
+	background-position: top;
 	background-color: #a742f5;
 }
 
