@@ -8,7 +8,7 @@ body {
 }
 
 .text {
-	background-color: #ffe6cc;
+	background-color: rgb(0 0 0 / 50%);
 	color: black;
 	vertical-align: middle;
 	display: inline-block;
