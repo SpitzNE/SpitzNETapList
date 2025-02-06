@@ -12,7 +12,10 @@ body {
 	color: black;
 	vertical-align: middle;
 	display: inline-block;
-	padding: 30px 30px;
+	padding-left: 30px;
+	padding-right: 30px:
+	padding-top: 15px;
+	padding-bottom: 15px;
 	margin-right: 200px;
 	margin-left: 200px;
 }
