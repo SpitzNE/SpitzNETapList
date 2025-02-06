@@ -1,6 +1,5 @@
 body {
-	background-image: url("");
-	background-color: white;
+	background-image: url("bartop.png");
 }
 
 * {
@@ -10,4 +9,10 @@ body {
 
 .text {
 	background-color: #ffe6cc;
+	color: black;
+	vertical-align: middle;
+	display: inline-block;
+	padding: 40px 40px;
+	margin-right: 500px;
+	margin-left: 500px;
 }
