@@ -37,10 +37,12 @@ body {
 }
 
 #spitzmenu {
- color: #52fc03;
+	font-family: verdant;
+	color: #52fc03;
 }
 
 #spitzrewards {
+	font-family: verdant;
 	color: white;
 	background-color: teal;
 	
