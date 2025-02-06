@@ -2,6 +2,7 @@ body {
 	background-image: url("bartop.png");
 	background-position: top;
 	background-size: cover;
+	background-repeat: no-repeat;
 	background-color: #a742f5;
 }
 
