@@ -1,8 +1,9 @@
 body {
-	background-color: #ffe6cc;
+	
 }
 
 * {
 	font-family: georgia;
 	text-align: center;
+	background-color: #ffe6cc;
 }
