@@ -1,6 +1,6 @@
 body {
-	background-image: url("D6F5B946-2375-49FC-9788-CC7289F910A2.JPG");
-	background-position: top;
+	background-image:  url("bartop.png"), url("D6F5B946-2375-49FC-9788-CC7289F910A2.JPG");
+	background-position: top, bottom;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-color: #a742f5;
