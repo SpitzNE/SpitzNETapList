@@ -9,5 +9,6 @@ body {
 
 .text {
 	background-color: #ffe6cc;
+	width: auto;
 	display: inline;
 }
