@@ -12,6 +12,9 @@ body {
 	text-align: center;
 }
 
+a {
+	font-weight: bold;
+	font-family: papyrus;
 .text {
 	font-family: georgia;
 	background-color: rgb(0 0 0 / 75%);
