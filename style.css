@@ -88,3 +88,7 @@ a {
 	border-style: outset;
 	border-color: white;
 }
+
+.soldout {
+	text-decoration: line-through;
+}
