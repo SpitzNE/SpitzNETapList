@@ -9,6 +9,10 @@ body {
 	background-color: #ff6666;
 }
 
+.container {
+	position: relative;
+}
+
 #SpitzLogo {
 	filter: invert(100%);
 	width: 450px;
