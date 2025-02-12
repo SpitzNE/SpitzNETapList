@@ -1,7 +1,15 @@
 ==============================
+TAP LIST EDITING INSTRUCTIONS
+==============================
+- All edits made to any text on the tap list will be done within the "index.html"
+- Simply click this file on the left-hand side, and edit the file by clicking "edit" in the top right of the code
+
+==============================
 UPDATING BEVERAGES
 ==============================
-
+- To change a current beverage to a new one on the tap list:
+  1) first open "index.html"
+  2) find the tex
 
 ==============================
 UPDATING BACKGROUND PHOTO
