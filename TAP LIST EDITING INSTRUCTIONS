@@ -1,16 +1,24 @@
 ==============================
 TAP LIST EDITING INSTRUCTIONS
 ==============================
-- All edits made to any text on the tap list will be done within the "index.html"
-- Simply click this file on the left-hand side, and edit the file by clicking "edit" in the top right of the code
+- All edits made to any text on the tap list will be done within the "index.html" file
+- All edits to images or background images will be done within the "style.css" file
+- Simply click the file needed on the left-hand side, and edit the file by clicking "edit" in the top right of the code
+
 
 ==============================
 UPDATING BEVERAGES
 ==============================
 - To change a current beverage to a new one on the tap list:
   1) first open "index.html"
-  2) find the tex
+  2) All text that will show up on the physical webpage will appear in white colored font (the same as this text), so make sure you are only editing the white text.
+  3) Delete the white text containing the beverage you are replacing.
+  4) Add the new beverage in the space between "<p>" and "</p>", where you had deleted the original beverage text. Make sure to include ABV and Price if applicable!
+  5) In the top right of the code, click "commit changes" to save the edit and it will automatically update the tap list online! Well done!
 
 ==============================
 UPDATING BACKGROUND PHOTO
 ==============================
+- To change the background photo(s) for the tap list:
+  1) first open "style.css"
+  2) 
