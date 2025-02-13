@@ -26,4 +26,6 @@ UPDATING BACKGROUND PHOTO
   4) you can then navigate to wherever you saved the image, and drag and drop it into the box indicated for uploading the file, then click upload file(s) in the top right.
   5) It makes it much easier if you then edit the name of the image to something easy to remember and type
   6) click on "style.css" file on the left-hand side and click "edit"
-  7) 
+  7) Towards the top of the code, there is a line saying "background-image:" in the parenthesis after "url", and within the quotation marks, simply type the name that you named the photo file. Make sure to include .jpg or .png etc. depending on the file type.
+  8) Click "commit changes" in the top right, and you are all set! If you are replacing an image that is already there, simply find the corresponding file name in style.css, and delete and replace with the new photo name. Well done!
+
