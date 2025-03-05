@@ -39,6 +39,7 @@ a {
 }
 
 .text {
+	font-size: 25px;
 	font-family: georgia;
 	background-color: rgb(0 0 0 / 75%);
 	color: white;
