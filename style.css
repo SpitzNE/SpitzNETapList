@@ -6,7 +6,7 @@ body {
 	bottom;
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-color: #ff6666;
+	background-color: #5cd5ec;
 }
 
 .container {
@@ -67,10 +67,10 @@ a {
 
 #spitzmenu {
 	color: white;
-	background-color: hotpink;
+	background-color: #ff6666;
 	box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
 	font-size: 20px;
-	font-family: papyrus;
+	font-family: georgia;
 	padding: 5px;
 	text-decoration: none;
 	border-style: outset;
@@ -79,9 +79,9 @@ a {
 
 #spitzrewards {
 	font-size: 20px;
-	font-family: papyrus;
+	font-family: georgia;
 	color: white;
-	background-color: hotpink;
+	background-color: #ff6666;
 	box-shadow: 3px 3px 7px rgba(0, 0, 0, 1);
 	padding: 5px;
 	text-decoration: none;
