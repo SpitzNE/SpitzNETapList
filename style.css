@@ -2,8 +2,9 @@ body {
 	margin: 0;
 	margin-top: -80;
 
-	/*margin-left: -120;*/
-	margin-right: -120;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
 	
 	background-image: url("D6F5B946-2375-49FC-9788-CC7289F910A2.JPG");
 	background-position: top, 
