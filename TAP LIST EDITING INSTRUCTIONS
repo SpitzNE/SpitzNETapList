@@ -11,10 +11,13 @@ UPDATING BEVERAGES
 ==============================
 - To change a current beverage to a new one on the tap list:
   1) first open "index.html"
-  2) All text that will show up on the physical webpage will appear in white colored font (the same as this text), so make sure you are only editing the white text.
+  2) All text that will show up on the physical webpage will appear in white colored font, so make sure you are only editing the white text.
   3) Delete the white text containing the beverage you are replacing.
   4) Add the new beverage in the space between "<p>" and "</p>", where you had deleted the original beverage text. Make sure to include ABV and Price if applicable!
   5) In the top right of the code, click "commit changes" to save the edit and it will automatically update the tap list online! Well done!
+
+- To cross a beer off on the tap list indicating it is sold out:
+  1) 
 
 ==============================
 UPDATING BACKGROUND PHOTO
