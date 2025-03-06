@@ -40,27 +40,24 @@ a {
 }
 
 .text {
-	font-size: 35px;
+	font-size: 25px;
 	font-family: georgia;
 	background-color: rgb(0 0 0 / 75%);
 	color: white;
 	vertical-align: middle;
 	
 	display: inline-block; /*Was "inline-block"*/
-	white-space: nowrap;
-	align-items: center; /* Center vertically */
-	justify-content: center; /* Center horizontally */
 	
 	padding: 30px 30px;
-	margin-right: 125px;   /* Was "200px" */
-	margin-left: 125px;   /* Was "200px" */
+	margin-right: 200px;   /* Was "200px" */
+	margin-left: 200px;   /* Was "200px" */
 
 	
 }
 
 .heading {
 	font-family: georgia;
-	font-size: 40px;
+	font-size: 32px;
 } 
 
 .title {
