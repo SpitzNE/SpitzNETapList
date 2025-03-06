@@ -47,6 +47,7 @@ a {
 	vertical-align: middle;
 	
 	display: flex; /*Was "inline-block"*/
+	white-space: nowrap;
 	
 	padding: 30px 30px;
 	margin-right: 200px;
