@@ -8,19 +8,10 @@ body {
 	background-repeat: no-repeat;
 	background-color: #5cd5ec;
 
-	display: flex; /* Use flexbox for centering */
-	justify-content: center; /* Center content horizontally */
-	align-items: center; /* Center content vertically */
-	min-height: 100vh; /* Ensure the body takes up full height */
-
 }
 
 .container {
 	position: relative;
-	
-	width: 100%;
-	max-width: 100%;
-	text-align: center;
 }
 
 #SpitzLogo {
@@ -49,12 +40,6 @@ a {
 }
 
 .text {
-	width: 100%;
-	max-width: 100%;
-	white-space: nowrap;
-	overflow: hidden;
-	text-overflow: ellipsis;
-	
 	font-size: 35px;
 	font-family: georgia;
 	background-color: rgb(0 0 0 / 75%);
@@ -80,12 +65,6 @@ a {
 	padding: 120px 120px;
 	margin-bottom: 0px;
 	margin-top: 0px;
-
-	width: 100%;
-	max-width: 100%;
-	white-space: nowrap;
-	overflow: hidden;
-	text-overflow: ellipsis;
 }
 
 #spitzmenu {
@@ -114,11 +93,4 @@ a {
 
 .soldout {
 	text-decoration: line-through;
-}
-
-@media (max-width: 600px) {
-	.text, .title {
-		font-size: 20px; /* Adjust font size for mobile */
-		padding: 15px 10px; /* Reduce padding for mobile screens */
-	}
 }
