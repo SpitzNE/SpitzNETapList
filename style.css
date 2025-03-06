@@ -52,8 +52,8 @@ a {
 	justify-content: center; /* Center horizontally */
 	
 	padding: 30px 30px;
-	margin-right: 50px; /* Was "200px" */
-	margin-left: 50px; /* Was "200px" */
+	/* margin-right: 50px; */   /* Was "200px" */
+	/* margin-left: 50px; */   /* Was "200px" */
 
 	
 }
