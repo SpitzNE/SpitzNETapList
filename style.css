@@ -11,6 +11,8 @@ body {
 
 .container {
 	position: relative;
+	
+	width: 100%;
 }
 
 #SpitzLogo {
@@ -39,7 +41,10 @@ a {
 }
 
 .text {
+	width: 100%;
+	max-width: 100%;
 	white-space: nowrap;
+	
 	font-size: 35px;
 	font-family: georgia;
 	background-color: rgb(0 0 0 / 75%);
