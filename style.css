@@ -46,7 +46,7 @@ a {
 	color: white;
 	vertical-align: middle;
 	
-	display: flex; /*Was "inline-block"*/
+	display: inline-flex; /*Was "inline-block"*/
 	white-space: nowrap;
 	
 	padding: 30px 30px;
