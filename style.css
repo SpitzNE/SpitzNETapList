@@ -7,12 +7,20 @@ body {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-color: #5cd5ec;
+
+	display: flex; /* Use flexbox for centering */
+	justify-content: center; /* Center content horizontally */
+	align-items: center; /* Center content vertically */
+	min-height: 100vh; /* Ensure the body takes up full height */
+
 }
 
 .container {
 	position: relative;
 	
 	width: 100%;
+	max-width: 100%;
+	text-align: center;
 }
 
 #SpitzLogo {
@@ -44,6 +52,8 @@ a {
 	width: 100%;
 	max-width: 100%;
 	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
 	
 	font-size: 35px;
 	font-family: georgia;
@@ -70,6 +80,12 @@ a {
 	padding: 120px 120px;
 	margin-bottom: 0px;
 	margin-top: 0px;
+
+	width: 100%;
+	max-width: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
 }
 
 #spitzmenu {
