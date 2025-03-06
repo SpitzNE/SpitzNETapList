@@ -115,3 +115,10 @@ a {
 .soldout {
 	text-decoration: line-through;
 }
+
+@media (max-width: 600px) {
+	.text, .title {
+		font-size: 20px; /* Adjust font size for mobile */
+		padding: 15px 10px; /* Reduce padding for mobile screens */
+	}
+}
