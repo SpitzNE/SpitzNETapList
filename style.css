@@ -48,6 +48,8 @@ a {
 	
 	display: inline-flex; /*Was "inline-block"*/
 	white-space: nowrap;
+	align-items: center; /* Center vertically */
+	justify-content: center; /* Center horizontally */
 	
 	padding: 30px 30px;
 	margin-right: 50px; /* Was "200px" */
