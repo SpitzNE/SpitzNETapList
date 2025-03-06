@@ -46,7 +46,7 @@ a {
 	color: white;
 	vertical-align: middle;
 	
-	display: inline-flex; /*Was "inline-block"*/
+	display: inline-block; /*Was "inline-block"*/
 	white-space: nowrap;
 	align-items: center; /* Center vertically */
 	justify-content: center; /* Center horizontally */
