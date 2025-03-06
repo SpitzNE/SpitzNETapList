@@ -9,14 +9,23 @@ TAP LIST EDITING INSTRUCTIONS
 UPDATING BEVERAGES
 ==============================
 - To change a current beverage to a new one on the tap list:
-  1) first open "index.html"
+  1) Open "index.html"
   2) All text that will show up on the physical webpage will appear in white colored font, so make sure you are only editing the white text.
   3) Delete the white text containing the beverage you are replacing.
   4) Add the new beverage in the space between "<p>" and "</p>", where you had deleted the original beverage text. Make sure to include ABV and Price if applicable!
   5) In the top right of the code, click "commit changes" to save the edit and it will automatically update the tap list online! Well done!
 
+
 - To cross a beer off on the tap list indicating it is sold out:
-  1) 
+  1) Open "index.html"
+  2) Find the text containing the beverage you would like to cross-out
+  3) Find the "<p>" that comes directly before the beer you're changing
+  4) Edit "<p>" to: <p class="soldout">
+
+    -) For example, under the "TapBeers" in "index.html", lets change the Pistachio Cream Ale. 
+    -) You would locate the text: "<p>Indeed - Pistachio Cream Ale - 5.5% - $7</p>"
+    -) You would change it to: "<p class="soldout">Indeed - Pistachio Cream Ale - 5.5% - $7</p>"
+    -) Dont forget to edit "<p class="soldout">" back to "<p>" once the beverage makes its return!
 
 ==============================
 UPDATING BACKGROUND PHOTO
