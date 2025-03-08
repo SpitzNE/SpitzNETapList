@@ -31,13 +31,13 @@ body {
 }*/
 
 .text {
-	font-size: 50px;
+	font-size: 70px;
 	font-family: georgia;
 	background-color: rgb(0 0 0 / 75%);
 	color: white;
 
-	margin-right: 100px;
-	margin-left: 100px;
+	margin-right: 50px;
+	margin-left: 50px;
 	vertical-align: middle;
 	display: inline-block;
 	
@@ -48,7 +48,7 @@ body {
 
 .heading {
 	font-family: georgia;
-	font-size: 50px;
+	font-size: 70px;
 } 
 
 .title {
