@@ -8,10 +8,15 @@ body {
 	background-repeat: no-repeat;
 	background-color: #5cd5ec;
 
+	/* DISPLAY OF ELEMENTS (NOT BACKGROUND IMAGES) */
+	display: flex;
+	flex-direction: column;
+	align-items: center; 
+
 }
 
-.container {
-	position: relative;
+* {
+	text-align: center;
 }
 
 #SpitzLogo {
@@ -30,45 +35,35 @@ body {
 	top: -20px;
 }*/
 
-* {
-	text-align: center;
-}
-
-a {
-	font-weight: bold;
-	font-family: papyrus;
-}
-
 .text {
-	font-size: 25px;
+	font-size: 35px;
 	font-family: georgia;
 	background-color: rgb(0 0 0 / 75%);
 	color: white;
-	vertical-align: middle;
 	
-	display: inline-block; /*Was "inline-block"*/
+	/*Was margin-right: 200px; margin-left: 200px; display: inline-block; vertical-align: middle; */
 	
 	padding: 30px 30px;
-	margin-right: 200px;   /* Was "200px" */
-	margin-left: 200px;   /* Was "200px" */
 
 	
 }
 
 .heading {
 	font-family: georgia;
-	font-size: 32px;
+	font-size: 35px;
 } 
 
 .title {
-	font-family: georgia;
 	font-size: 60px;
 	background-color: rgb(0 0 0 / 75%);
-	color: white;
 	vertical-align: middle;
 	padding: 120px 120px;
 	margin-bottom: 0px;
 	margin-top: 0px;
+
+	margin-right: 0px;
+	margin-left: 0px;
+	width: 100vw;
 }
 
 #spitzmenu {
@@ -77,7 +72,7 @@ a {
 	box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
 	font-size: 20px;
 	font-family: georgia;
-	padding: 5px;
+	padding: 4px;
 	text-decoration: none;
 	border-style: outset;
 	border-color: white;
@@ -89,7 +84,7 @@ a {
 	color: white;
 	background-color: #ff6666;
 	box-shadow: 3px 3px 7px rgba(0, 0, 0, 1);
-	padding: 5px;
+	padding: 4px;
 	text-decoration: none;
 	border-style: outset;
 	border-color: white;
